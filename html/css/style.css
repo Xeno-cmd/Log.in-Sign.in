@@ -109,6 +109,15 @@ button:hover{
 
 /* Class Definitions */
 
+#AGB{
+    width: 13px;
+    padding: 0px 0px 0px 0px;
+}
+
+label{
+    margin: 0px 0px 0px 10px;
+}
+
 .container{
     width: 350px;
     border: 2px solid rgba(255,255,255,.2);
